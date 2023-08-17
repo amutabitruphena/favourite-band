@@ -6,7 +6,7 @@ it has a link to outlive on github is https://github.com/amutabitruphena/favouri
 copryrigt and lisence information are as follows
 MIT License
 
-Copyright (c) [2020] [MIT LISENCE]
+**Copyright (c) [2020] [MIT LISENCE]**
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
