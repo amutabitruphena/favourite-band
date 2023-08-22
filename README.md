@@ -1,27 +1,21 @@
-# favourite-band-Project 
-Author name:Truphena Khavele
-This project assigns students to find out information to all questions about their favorite band or artist and create a presentation through Google Slides and powerpoint
-The project should is targeted on youmg generation mostly,the music and its artists are original and should no be duplicated,it must not be edite by anyone hence its private and protected
-it has a link to outlive on github pages is  https://amutabitruphena.github.io/favourite-band/
-copryrigt and lisence information are as follows
-MIT License
-
-**Copyright (c) [2020] [MIT LISENCE]**
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+# Favourite Band
+This is my favorite band created on 2005 in kenya.
+Its a unique blend of Afro-pop and contemporary R&B. Their music often features traditional African instruments and modern beats.
+## introducion.
+The aim of this webpage is to give a descripyion about Luhya songs.
+The memmbers of the band.
+Links to their favorite songs.
+Links to their Albums.
+It also provides a short biagraphy of each member of the band and an image.
+### Author.
+This web site was designed by Truphena Khavele.
+#### Technology.
+Built with HTML and styled with CSS.
+HTML 5.0 is the version used to design the webpage.
+##### Description.
+Its  my favorite band.This is because of their unique blend of Afro-pop and contemporary R$B.
+The webpage is built using HTMLand styled using CSS.
+I heve posted this webpage on GitHub pages .use the link to run the webpage
+###### Lincense.
+I invite the community to pull suggestions on improving the webpage.
+Feel free to edit and make your own webpage for your favorite band.
